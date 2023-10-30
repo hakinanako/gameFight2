@@ -1,2 +1,5 @@
-package util;public class GameUtil {
+package util;
+
+public class GameUtil {
+
 }

@@ -1,2 +1,4 @@
-package util;public class RewardUtil {
+package util;
+
+public class RewardUtil {
 }
